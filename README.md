@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:7c92c4,100:7c92c4&height=300&section=header&text=Hi%20there%!&fontSize=75&rotate=19&fontAlign=65)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:7c92c4,100:7c92c4&height=300&section=header&fontSize=75&rotate=19&fontAlign=65)
 
 안녕하세요! 애플리케이션 개발자를 꿈 꾸고 있는   
 나정민이라고 합니다 😊   
