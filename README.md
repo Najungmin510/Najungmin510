@@ -39,6 +39,7 @@
    
 ## 🔸 백준
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=skwjdals0908)](https://solved.ac/skwjdals0908)
-
+<img src="http://mazandi.herokuapp.com/api?handle=skwjdals0908&theme=warm"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:22E8ED&height=200&section=footer)
 </div>
 
