@@ -4,7 +4,7 @@
 
 # Hi there! I'm NDN 💭    
   
-현재 대학생이고, 개인적으로 프로젝트를 구상하며 공부하고 있습니다.    
+안드로이드 개발자를 꿈꾸고 있는 대학생이고, 개인적으로 프로젝트를 구상하며 공부하고 있습니다.   
 작년 안드로이드 개발은 Java로 했었지만 선배님의 조언으로 Kotiln으로 전환중입니다!      
 그 외에도 백엔드에도 관심이 있어 springboot를 공부하고 있습니다. 
   
@@ -34,7 +34,7 @@
   개인적으로 공부하고 있는 기술들입니다.   
   인프런, 유튜브, 구글링을 통해 공부중입니다.
 
-## 🔸깃 상태! (Git status)   
+## 🔸깃 상태   
 ![Najungmin510's github stats](https://github-readme-stats.vercel.app/api?username=Najungmin510&show_icons=true&bg_color=f3f3f3)
    
 ## 🔸 백준
