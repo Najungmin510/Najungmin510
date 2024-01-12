@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "left">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8700D9&height=200&section=header&fontSize=45&fontAlign=50&fontAlignY=40&text=Dreaming%20developer&fontColor=FFFFFF)
 
@@ -7,6 +7,8 @@
 안드로이드 개발자를 꿈꾸고 있는 대학생이고, 개인적으로 프로젝트를 구상하며 공부하고 있습니다.   
 작년 안드로이드 개발은 Java로 했었지만 선배님의 조언으로 Kotiln으로 전환중입니다!      
 그 외에도 백엔드에도 관심이 있어 springboot를 공부하고 있습니다. 
+
+기획, 디자인, 안드로이드 개발을 중심적으로 활동하고 있습니다.
   
   
      
@@ -15,7 +17,6 @@
 <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>   
    
-  
   
 어느정도 다룰 줄 아는 기술입니다.
    
@@ -33,6 +34,16 @@
    
   개인적으로 공부하고 있는 기술들입니다.   
   인프런, 유튜브, 구글링을 통해 공부중입니다.
+
+## 🔸 참여 프로젝트
+   2022 스마트 해상물류 애플리케이션 개발
+
+   
+   한림대학교 감사운동 애플리케이션 sns 부분 개발 및 유지보수
+    (https://play.google.com/store/apps/details?id=com.hallym.hlth)
+
+    
+   세월호 10주기 애플리케이션 개발 진행중
 
 ## 🔸깃 상태   
 ![Najungmin510's github stats](https://github-readme-stats.vercel.app/api?username=Najungmin510&show_icons=true&bg_color=f3f3f3)
