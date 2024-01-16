@@ -35,8 +35,8 @@
   개인적으로 공부하고 있는 기술들입니다.   
   인프런, 유튜브, 구글링을 통해 공부중입니다.
 
-## 🔸 참여 프로젝트
-   2022 스마트 해상물류 애플리케이션 개발
+## 🔸 참여 프로젝트 & 활동
+   2022 스마트 해상물류 공모전 참여 [2022 스마트 해상물류 경진대회](https://www.youtube.com/watch?v=_mnuw_442y8)
 
    
    한림대학교 감사운동 애플리케이션 sns 부분 개발 및 유지보수
@@ -44,6 +44,10 @@
 
     
    세월호 10주기 애플리케이션 개발 진행중
+
+   한림대학교 안드로이드 개발 팀인 라떼팀에서 활동
+
+   
 
 ## 🔸깃 상태   
 ![Najungmin510's github stats](https://github-readme-stats.vercel.app/api?username=Najungmin510&show_icons=true&bg_color=f3f3f3)
