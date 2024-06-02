@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/AndroidStudio-green?style=flat&logo=AndroidStudio&logoColor=white"/>   
 <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>   
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>   
    
   
 어느정도 다룰 줄 아는 기술입니다.
@@ -26,14 +27,7 @@
 <img src="https://img.shields.io/badge/AmazonEc2-FF9900?style=flat&logo=Amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
     
- 프로젝트를 진행하며 경험해 본 기술입니다. 능숙하지는 못합니다.
-
- ## 🔸공부중인 기술
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-   
-  개인적으로 공부하고 있는 기술들입니다.   
-  인프런, 유튜브, 구글링을 통해 공부중입니다.
+ 프로젝트를 진행하며 경험해 본 기술입니다. 능숙하지는 못합니다.   
 
 ## 🔸 참여 프로젝트 & 활동
    2022 스마트 해상물류 공모전 참여 [2022 스마트 해상물류 경진대회](https://www.youtube.com/watch?v=_mnuw_442y8)
@@ -42,10 +36,9 @@
    한림대학교 감사운동 애플리케이션 sns 부분 개발 및 유지보수
     (https://play.google.com/store/apps/details?id=com.hallym.hlth)
 
-    
-   세월호 10주기 애플리케이션 개발 진행중
+   세월호 10주기 애플리케이션 개발
 
-   한림대학교 안드로이드 개발 팀인 라떼팀에서 활동
+   한림대학교 안드로이드 개발 팀인 라떼팀에서 활동(2023~)
 
    
 
